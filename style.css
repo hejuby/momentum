@@ -1,0 +1,66 @@
+body {
+  color: beige;
+  text-shadow: 1px 1px 0 black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  font-size: 120px;
+  margin-top: 1em;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 60px;
+  margin-top: 15px;
+}
+
+input {
+  text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid black;
+  background: transparent;
+}
+
+#login-form input {
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+#login-form input::placeholder {
+  text-shadow: 1px 1px 0 black;
+}
+
+#todo-form input {
+  font-size: 20px;
+}
+
+#todo-form input::placeholder {
+  text-shadow: 1px 1px 0 black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 23px;
+}
+
+#weather {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+#weather span:first-child {
+  font-size: 25px;
+}
