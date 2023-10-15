@@ -1,1 +1,1 @@
-Vanilla JS Challenge project at [nomadcoder.co]
+Vanilla JS Challenge project at [nomadcoder.co](nomadcoder.co)
